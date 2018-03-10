@@ -1,2 +1,2 @@
-# Cats-and-dogs-recognition-using-CNN-with-Keras
-My experiment of recognizing images of cats and dogs using CNN
+# Cats-and-dogs-recognition-using-Capsnet-with-Tensorflow
+My experiment of recognizing images of cats and dogs using Capsule Network architecture
